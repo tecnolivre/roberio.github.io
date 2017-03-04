@@ -34,7 +34,7 @@ Fonte: [NASA]
 
 ## Veja o vídeo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JIpyc8AfMZY" frameborder="0" allowfullscreen></iframe>
+<iframe width="400" height="250" src="https://www.youtube.com/embed/JIpyc8AfMZY" frameborder="0" allowfullscreen></iframe>
 
 
 
