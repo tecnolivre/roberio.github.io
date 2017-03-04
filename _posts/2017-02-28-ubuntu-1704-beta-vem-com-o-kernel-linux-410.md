@@ -13,7 +13,7 @@ tags:
 categories: 
 - Tecnologia 
 - Linux
--  Ubuntu,
+- Ubuntu
 twitter_text: "Ubuntu 17.04 beta vem com o kernel Linux 4.10"
 introduction:
 ---
