@@ -13,7 +13,7 @@ introduction:
 ---
 
 
-#NASA lança catálogo de software, que concde ao público acesso gratúito a tecnologias para aplicações terrestres
+# NASA lança catálogo de software, que concde ao público acesso gratúito a tecnologias para aplicações terrestres
 
 
 A NASA lançou seu catálogo de software, que oferece um extenso portfólio de produtos de software para uma ampla variedade de aplicações técnicas, todas gratuitas para o público, sem royalties ou taxas de direitos autorais.
