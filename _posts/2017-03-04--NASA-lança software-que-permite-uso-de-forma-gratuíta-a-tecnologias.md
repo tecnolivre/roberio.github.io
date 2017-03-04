@@ -13,7 +13,7 @@ introduction:
 ---
 
 
-# NASA lança software, que concede ao público acesso gratúito a tecnologias para aplicações terrestres
+## NASA lança software, que concede ao público acesso gratúito a tecnologias para aplicações terrestres
 
 
 A NASA lançou seu catálogo de software, que oferece um extenso portfólio de produtos de software para uma ampla variedade de aplicações técnicas, todas gratuitas para o público, sem royalties ou taxas de direitos autorais.
@@ -32,7 +32,7 @@ O catálogo de software é um produto do programa de Transferência de Tecnologi
 
 Fonte: [NASA]
 
-# Veja o vídeo
+## Veja o vídeo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JIpyc8AfMZY" frameborder="0" allowfullscreen></iframe>
 
