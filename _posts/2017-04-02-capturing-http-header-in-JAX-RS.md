@@ -2,7 +2,7 @@
 author: ameyjadiye
 layout: post
 title: "Capturing HTTP Header In JAX-RS"
-date: 2013-12-10 20:30
+date: 2017-04-02 09:30
 comments: true
 category: java
 tags:
