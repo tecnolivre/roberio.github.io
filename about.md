@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 permalink: /about/index.html
 title: Sobre
 description: Tecnoligia, engenharia e muito mais...
