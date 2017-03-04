@@ -39,14 +39,5 @@ Após adicionar o repositório
 
 
 
-<ul>
-<li><p>Another item in the same list.</p></li>
-<li><p>A list item with a bit of <code>code</code> inline.</p></li>
-<li><p>A list item with a blockquote:</p>
-
-<blockquote><p>This is a blockquote
-inside a list item.</p></blockquote></li>
-</ul>
-
 
 [repositórios oficiais PPA]: https://launchpad.net/~maarten-baert/+archive/ubuntu/simplescreenrecorder/
