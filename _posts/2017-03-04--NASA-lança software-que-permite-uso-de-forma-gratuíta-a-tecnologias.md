@@ -16,6 +16,13 @@ introduction:
 ## NASA lança software, que concede ao público acesso gratúito a tecnologias para aplicações terrestres
 
 
+<figure>
+	<img src="/images/imagens/nasa.png">
+	<figcaption>NASA lança Software</figcaption>
+</figure>
+
+/images/imagens/nasa.png
+
 A NASA lançou seu catálogo de software, que oferece um extenso portfólio de produtos de software para uma ampla variedade de aplicações técnicas, todas gratuitas para o público, sem royalties ou taxas de direitos autorais.
 
 Disponível em versão impressa e on-line, esta terceira edição da publicação tem contribuições de todos os centros da agência de processamento / armazenamento de dados, sistemas de negócios, operações, propulsão e aeronáutica. Ele inclui muitas das ferramentas que a NASA usa para explorar o espaço e ampliar nossa compreensão do universo. Uma série de pacotes de software estão sendo apresentados para lançamento pela primeira vez. Cada entrada do catálogo é acompanhada com uma descrição em linguagem simples do que ele faz.
