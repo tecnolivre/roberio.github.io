@@ -36,6 +36,40 @@ Após adicionar o repositório
 {% highlight python %}
       sudo apt-get update
 {% endhighlight %}
+Para instalar, o comando abaixo, para sistema 32 bit 
+{% highlight python %}
+      sudo apt install simplescreenrecorder simplescreenrecorder-lib
+{% endhighlight %}
+
+Para Sistema 64 bit é necessário instalar a biblioteca a seguir:
+{% highlight python %}
+      sudo apt install simplescreenrecorder-lib:i386
+{% endhighlight %}
+
+
+## Para instalar via `SNAP`, basta digitar o comando abaixo:
+
+{% highlight python %}
+      sudo snap install simplescreenrecorder-mardy
+{% endhighlight %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
