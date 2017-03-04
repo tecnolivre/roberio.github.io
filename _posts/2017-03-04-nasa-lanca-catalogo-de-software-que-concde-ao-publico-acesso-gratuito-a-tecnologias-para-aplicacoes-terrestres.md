@@ -1,12 +1,13 @@
 ---
 layout: post
+title: "Lançamento da NASA"
 date: 2017-03-04 10:10:38
 image: '/assets/img/'
 description:
 main-class:
 color:
 tags: tecnologia, NASA, Novidades, Engenharia, Notícias
-categories: T
+categories: Tecnologia, Enganharia, Novidades
 twitter_text: NASA lança software que permite uso de forma gratuíta a tecnologias.
 introduction:
 ---
