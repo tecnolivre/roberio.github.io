@@ -10,7 +10,13 @@ image:
 
 [Teclivre] é um Blog voltado a quem se interessa por tecnoligia, voltado a software open source e engenharia. Feito por que gosta e estudar tecnoligia, minhas dívidas são postadas afim de ajudar alguém que tenha as mesmas dúvudas. 
 
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-1738697462902889",
+    enable_page_level_ads: true
+  });
+</script>
 
 ### Softwares
 * Poderoso editor de vídeo multiplataforma [Kdenlive]
