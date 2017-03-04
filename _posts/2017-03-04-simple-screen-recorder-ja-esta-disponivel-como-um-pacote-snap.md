@@ -39,19 +39,14 @@ Após adicionar o repositório
 
 
 
-{% highlight python %}
-if __name__ =='__main__':
-    img_thread = threading.Thread(target=downloadWallpaper)
-    img_thread.start()
-    st = '\rDownloading Image'
-    current = 1
-    while img_thread.is_alive():
-        sys.stdout.write(st+'.'*((current)%5))
-        current=current+1
-        time.sleep(0.3)
-    img_thread.join()
-    print('\nImage of the day downloaded.')
-{% endhighlight %}
+<ul>
+<li><p>Another item in the same list.</p></li>
+<li><p>A list item with a bit of <code>code</code> inline.</p></li>
+<li><p>A list item with a blockquote:</p>
+
+<blockquote><p>This is a blockquote
+inside a list item.</p></blockquote></li>
+</ul>
 
 
 [repositórios oficiais PPA]: https://launchpad.net/~maarten-baert/+archive/ubuntu/simplescreenrecorder/
