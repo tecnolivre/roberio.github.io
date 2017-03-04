@@ -31,3 +31,27 @@ Para instalar pelos [repositórios oficiais PPA], basta a dicionar da seguite ma
       sudo add-apt-repository ppa:maarten-baert/simplescreenrecorder
 {% endhighlight %}
  
+Após adicionar o repositório
+
+{% highlight python %}
+      sudo apt-get update
+{% endhighlight %}
+
+
+
+{% highlight python %}
+if __name__ =='__main__':
+    img_thread = threading.Thread(target=downloadWallpaper)
+    img_thread.start()
+    st = '\rDownloading Image'
+    current = 1
+    while img_thread.is_alive():
+        sys.stdout.write(st+'.'*((current)%5))
+        current=current+1
+        time.sleep(0.3)
+    img_thread.join()
+    print('\nImage of the day downloaded.')
+{% endhighlight %}
+
+
+[repositórios oficiais PPA]: https://launchpad.net/~maarten-baert/+archive/ubuntu/simplescreenrecorder/
