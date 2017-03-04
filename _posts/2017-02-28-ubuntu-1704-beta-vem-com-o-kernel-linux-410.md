@@ -4,7 +4,7 @@ title: "Ubuntu 17.04 beta vem com o kernel Linux 4.10"
 date: 2017-02-28 18:22:34
 image: '/images/imagens/'
 tags: [Linux 4.10, ubuntu, Ubuntu 17.04, Ubuntu 17.04 Zesty Zapus beta, Ubuntu Zesty Zapus]
-categories: Tecnologia
+categories: Tecnologia, Linux, Ubuntu,
 twitter_text: "Ubuntu 17.04 beta vem com o kernel Linux 4.10"
 introduction:
 ---

@@ -6,8 +6,8 @@ image: '/assets/img/'
 description:
 main-class:
 color:
-tags:
-categories:
+tags: Linux, Seguraça, Sistemas operecionais
+categories: Linux, Seguraça, Sistemas operecionais
 twitter_text: Sistemas para hacker
 introduction:
 ---
