@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NASA lança software que permite uso de forma gratuíta a tecnologias."
+title:
 date: 2017-03-04 10:10:38
 image: '/assets/img/'
 description:
