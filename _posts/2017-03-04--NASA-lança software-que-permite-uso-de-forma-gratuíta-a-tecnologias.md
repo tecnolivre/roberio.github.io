@@ -30,6 +30,16 @@ introduction:
 	<figcaption>NASA lança Software</figcaption>
 </figure>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- teclivre -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-1738697462902889"
+     data-ad-slot="4405393702"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 A NASA lançou seu catálogo de software, que oferece um extenso portfólio de produtos de software para uma ampla variedade de aplicações técnicas, todas gratuitas para o público, sem royalties ou taxas de direitos autorais.
 
