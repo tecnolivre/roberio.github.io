@@ -26,7 +26,7 @@ introduction:
 
 
 <figure>
-	<img src="/images/imagens/nasa.png">
+	<img src="/images/imagens/nasa.jpg">
 	<figcaption>NASA lança Software</figcaption>
 </figure>
 
