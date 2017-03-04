@@ -1,6 +1,5 @@
 ---
 layout: post
-title:
 date: 2017-03-04 10:10:38
 image: '/assets/img/'
 description:
