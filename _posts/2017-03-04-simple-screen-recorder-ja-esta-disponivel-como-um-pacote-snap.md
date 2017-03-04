@@ -21,7 +21,7 @@ twitter_text: Simple Screen Recorder já está disponível como um pacote Snap
 introduction:
 ---
 
-O programa usado para captura de tela, GNU/Linux, Simpĺe Screen Recorder é um dos mais populares, agora está disponível sua instalação com pacote `SNAP`. Anteriormente sua instalação estava disponível apenas por repositórios `PPA`.
+O programa usado para captura de tela, GNU/Linux, Simpĺe Screen Recorder é um dos mais populares, agora está disponível sua instalação com pacote SNAP. Anteriormente sua instalação estava disponível apenas por repositórios PPA.
 
 Para instalar pelos [repositórios oficiais PPA], basta a dicionar da seguite maneira:
 
@@ -47,7 +47,7 @@ Para Sistema 64 bit é necessário instalar a biblioteca a seguir:
 {% endhighlight %}
 
 
-## Para instalar via `SNAP`, basta digitar o comando abaixo:
+Para instalar via SNAP, basta digitar o comando abaixo:
 
 {% highlight python %}
       sudo snap install simplescreenrecorder-mardy
@@ -55,7 +55,10 @@ Para Sistema 64 bit é necessário instalar a biblioteca a seguir:
 
 
 
-
+<dl>
+  <dt>Coffee</dt>
+  <dd>Black hot drink</dd>
+ 
 
 
 
