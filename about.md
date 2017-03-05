@@ -3,7 +3,13 @@ layout: page
 permalink: /about/index.html
 title: Sobre
 description: Tecnoligia, engenharia e muito mais...
-tags: [Linux, Ubuntu, Open source, roberio Figueiredo, tecnoligia, Teclivre]
+tags: 
+ - Linux 
+ - Ubuntu
+ -  Open source
+ -  roberio Figueiredo
+ -  tecnoligia
+ -  Teclivre
 image:
   feature: soft-trees.jpg
 ---

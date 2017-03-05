@@ -43,7 +43,7 @@ links:
   - title: Sobre
     url: /about
   - title: Canal
-    url: www.youtube.com/roberiofig
+    url: http://www.youtube.com/roberiofig
     external: true
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Calcutta
