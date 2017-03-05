@@ -66,7 +66,6 @@ Agora é só instalar e começar a gravar.
 
 
 Veja também!
-
 [Lançamento da NASA]
 [Ubuntu 17.04 beta vem com o kernel Linux 4.10]
 
