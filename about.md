@@ -8,7 +8,7 @@ image:
   feature: soft-trees.jpg
 ---
 
-[Teclivre] é um Blog voltado a quem se interessa por tecnoligia, voltado a software open source e engenharia. Feito por que gosta e estudar tecnoligia, minhas dívidas são postadas afim de ajudar alguém que tenha as mesmas dúvudas. 
+[Teclivre] é um Canal voltado a quem se interessa por tecnologia, nosso foco maior é a utilização de  software open source e engenharia, mas não exclusivo a esse seguimento. Feito por quem gosta de estudar tecnologia. 
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <script>
