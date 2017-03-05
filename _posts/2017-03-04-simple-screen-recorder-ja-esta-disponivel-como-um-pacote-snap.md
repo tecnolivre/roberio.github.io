@@ -20,18 +20,20 @@ categories:
 twitter_text: Simple Screen Recorder já está disponível como um pacote Snap
 introduction:
 ---
+<figure>
+	<img src="/images/imagens/sobre-simple-screen-recorder.png">
+	<figcaption>Simple Screen Recrder</figcaption>
+</figure>
 
 O programa usado para captura de tela, GNU/Linux, Simpĺe Screen Recorder é um dos mais populares, agora está disponível sua instalação com pacote SNAP. Anteriormente sua instalação estava disponível apenas por repositórios PPA.
 
 <figure>
-	<img src="/images/imagens/simple.jpg">
+	<img src="/images/imagens/simple.png">
 	<figcaption>Simple Screen Recrder</figcaption>
 </figure>
 
 
 Para instalar pelos [repositórios oficiais PPA], basta a dicionar da seguite maneira:
-
-
 
 {% highlight python %}
       sudo add-apt-repository ppa:maarten-baert/simplescreenrecorder
@@ -63,16 +65,19 @@ Para instalar via SNAP, basta digitar o comando abaixo:
 Agora é só instalar e começar a gravar.
 
 
+Veja também!
 
-
-
-
-
-
-
+[Lançamento da NASA]
+[Ubuntu 17.04 beta vem com o kernel Linux 4.10]
 
 
 
 
 
 [repositórios oficiais PPA]: https://launchpad.net/~maarten-baert/+archive/ubuntu/simplescreenrecorder/
+[Lançamento da NASA]: http://teclivre.com/tecnologia/enganharia/novidades/2017/03/04/NASA-lan%C3%A7a-software-que-permite-uso-de-forma-gratu%C3%ADta-a-tecnologias/
+[Ubuntu 17.04 beta vem com o kernel Linux 4.10]: http://teclivre.com/tecnologia/linux/ubuntu/2017/02/28/ubuntu-1704-beta-vem-com-o-kernel-linux-410/
+
+
+
+
