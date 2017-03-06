@@ -57,10 +57,10 @@ O Scilab é distribuído como código aberto sob a licença [CeCILL], uma licen�
 
 O SageMath está disponível sob uma licença [GPL], e seu código fonte pode ser encontrado no [site do projeto].
 
+[FONTE]
 
 
-
-
+[FONTE]:https://opensource.com/alternatives/matlab?sc_cid=7016000000127ECAAY
 [site do projeto]: http://www.sagemath.org/download-source.html
 [código-fonte]: http://www.scilab.org/development/sources/previous
 [CeCILL]: http://www.scilab.org/scilab/license
