@@ -22,7 +22,7 @@ introduction:
 ---
 <figure>
 	<img src="/images/imagens/edu_math_formulas.png">
-	<figcaption>Simple Screen Recorder</figcaption>
+	<figcaption>Alternativas open source para o MATLAB</figcaption>
 </figure>
 
 Para muitos estudantes de matemática, ciências físicas, engenharia, economia e outros campos com um componente numérico pesado, MATLAB é a sua primeira introdução à programação ou computação científica em geral.
