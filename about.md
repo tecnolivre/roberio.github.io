@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/index.html
-title: Sobre
+title: Sobre Teclivre
 description: Tecnoligia, engenharia e muito mais...
 tags: 
  - Linux 

@@ -76,7 +76,7 @@ Veja também!
 
 
 
-[repositórios oficiais PPA]: https://launchpad.net/~maarten-baert/+archive/ubuntu/simplescreenrecorder/
+[repositórios Oficiais PPA]: https://launchpad.net/~maarten-baert/+archive/ubuntu/simplescreenrecorder/
 
 [Lançamento da NASA]: http://teclivre.com/tecnologia/enganharia/novidades/2017/03/04/NASA-lan%C3%A7a-software-que-permite-uso-de-forma-gratu%C3%ADta-a-tecnologias/
 
