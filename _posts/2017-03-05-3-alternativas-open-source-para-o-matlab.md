@@ -33,7 +33,7 @@ Mas MATLAB é uma ferramenta proprietária. Sem acesso ao seu código-fonte, voc
 
 Felizmente, existem muitas grandes alternativas de código aberto. Dependendo exatamente o que seu objetivo é, você pode encontrar um ou outro para ajustar mais adequadamente suas necessidades específicas. Aqui estão três alternativas:
 
-##GNU Octave
+## GNU Octave
 
 O [GNU Octave] pode ser a alternativa mais conhecida ao MATLAB. Em desenvolvimento ativo por quase três décadas, Octave é executado tanto no Windows, Mac e Linux, e é empacotado para a maioria das principais distribuições. Se você estiver procurando por um projeto que seja o mais próximo possível da linguagem MATLAB possível, Octave pode ser um bom ajuste para você; Ele se esforça para compatibilidade exata, tantos de seus projetos desenvolvidos para MATLAB podem ser executados em Octave sem modificação necessária.
 
@@ -43,7 +43,7 @@ Octave é licenciado sob a [GPL], e seu código fonte pode ser encontrado no sit
 
 
 
-##SCILAB
+## SCILAB
 
 
 O [Scilab] é outra opção de código aberto para computação numérica que funciona em todas as principais plataformas: Windows, Mac e Linux incluídos. Scilab talvez a alternativa mais conhecida depois do Octave, e como Octave, é muito semelhante ao MATLAB em sua implementação, embora a compatibilidade exata não seja um objetivo dos desenvolvedores do projeto.
@@ -51,7 +51,7 @@ O [Scilab] é outra opção de código aberto para computação numérica que fu
 O Scilab é distribuído como código aberto sob a licença [CeCILL], uma licença compatível com GPL, e seu [código-fonte] está disponível no site do projeto.
 
 
-##SAGEMATH
+## SAGEMATH
 
 [SageMath] é outro sistema de software de matemática de código aberto que pode ser uma boa opção para aqueles que procuram uma alternativa MATLAB. Construído em cima de uma variedade de bem conhecidas bibliotecas de computação científica baseada em Python, e seu próprio idioma é sintaticamente semelhante ao Python. Ele tem muitos recursos, incluindo uma interface de linha de comando, notebooks baseados em navegador, ferramentas para incorporar fórmulas em outros documentos e, claro, muitas bibliotecas matemáticas.
 
