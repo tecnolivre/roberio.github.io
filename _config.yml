@@ -15,7 +15,7 @@ owner:
   avatar:         ameyjadiye.jpg
   email:          engenharia@portalsjcampos.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Estudante de engenharia, paixonado por tecnologia, sempre buscando novos conhecimentos.  :)
+  description:    Estudante de engenharia, apaixonado por tecnologia, nascido em São José dos Campos e sempre buscando novos conhecimentos. Mais sobre mim [Twitter]
   # Social networking links used in footer. Update and remove as you like.
   twitter:        roberiofig
   facebook:       roberiofig
@@ -73,3 +73,7 @@ kramdown:
 gems:
 - jemoji
 - jekyll-paginate
+
+
+
+[Twitter]: http://twitter.com/roberiofig
