@@ -49,7 +49,7 @@ Achou essa informação útil?  Compartilhe!
 
 
 
-[FOTNTE]: http://www.energia.sp.gov.br/2017/03/tecnologia-e-nova-revolucao-industrial-do-setor-eletrico-apontam-ceos/
+[FONTE]: http://www.energia.sp.gov.br/2017/03/tecnologia-e-nova-revolucao-industrial-do-setor-eletrico-apontam-ceos/
 
 
 
