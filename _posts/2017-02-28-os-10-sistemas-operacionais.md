@@ -13,7 +13,7 @@ tags:
 
 categories: 
 - Linux 
-- Seguraça 
+- Segurança 
 - Sistemas
 
 twitter_text: Sistemas para hacker
