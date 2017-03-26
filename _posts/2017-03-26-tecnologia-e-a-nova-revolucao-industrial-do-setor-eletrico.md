@@ -9,13 +9,13 @@ color:
 tags:
 - Tecnologia
 - Engenharia
-- Revulução induatrial
+- Revolução industrial
 
 categories: 
 - Tecnologia
 - Engenharia
 
-twitter_text: Tecnologia é a nova revolução industrial do setor elétrico
+twitter_text: Tecnologia é a nova revolução industrial do setor elétrico.
 introduction:
 ---
 
