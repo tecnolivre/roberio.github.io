@@ -71,6 +71,9 @@ Qual ferramenta usar depende um pouco do que você espera fazer. Abaixo está um
 
 Quais ferramentas de código aberto você usa para trabalhar com CDs e DVDs? Há, naturalmente, outras opções além destas escolhas óbvias, que você prefere? E, claro, espero que vá sem dizer, mas vou afirmá-lo de qualquer maneira, certifique-se de que você tem os direitos legais para fazer cópias de qualquer software, música ou filmes que você pretende gravar.
 
+[Fonte]
+
+
 Essa informação foi útil? Compartilhe!
 
 
@@ -85,4 +88,4 @@ Essa informação foi útil? Compartilhe!
 [cdrtools]:cdrtools.sourceforge.net/private/cdrecord.html
 [Dvd+rw-tools]: fy.chalmers.se/~appro/linux/DVD+RW/
 [Libburnia]: http://libburnia-project.org/
-
+[Fonte]: https://opensource.com/life/16/9/alternatives-nero-cd-burning?sc_cid=7016000000127ECAAY
