@@ -41,7 +41,7 @@ Alguns usuários tentaram alterar a seqüência do agente do usuário no navegad
 </figure>
 
 
-##Ataque intencional?
+## Ataque intencional?
 
 
 Alguns dos usuários no segmento alegaram que este é um ataque proposital da Microsoft contra usuários do Linux. Mas, tecnicamente, a questão parece ser apenas um bug.
