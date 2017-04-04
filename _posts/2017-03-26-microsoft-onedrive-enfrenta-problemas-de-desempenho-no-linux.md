@@ -17,7 +17,6 @@ categories:
 - Windows
 - Linux
 - Tecnologia
-- OneDrive
 - Microsoft
 
 twitter_text: "Microsoft OneDrive enfrenta problemas de desempenho no Linux"
