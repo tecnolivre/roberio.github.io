@@ -2,4 +2,6 @@ User-agent: *
 
 Disallow:
 
+Sitemap: http://teclivre.com/sitemap.xml
+
 
