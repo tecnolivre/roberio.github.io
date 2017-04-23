@@ -3,4 +3,5 @@ Disallow:
 
 User-agent: *
 
+Sitemap: http://teclivre.com/sitemap.xml
 
