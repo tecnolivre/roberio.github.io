@@ -1,6 +1,3 @@
-user-agent:0*
-
-disallow:
-
-sitemap: http://teclivre.com/sitemap.xml
+user-agent:*
+sitemap:http://teclivre.com/sitemap.xml
 
