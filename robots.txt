@@ -1,6 +1,5 @@
 User-agent: *
-
-Disallow: /
+Disallow: 
 
 Sitemap: http://teclivre.com/sitemap.xml
 
