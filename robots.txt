@@ -1,5 +1,8 @@
-Sitemap: http://teclivre.com/sitemap.xml
+
 User-agent: *
 
 Disallow:
+
+Sitemap: http://teclivre.com/sitemap.xml
+
 
