@@ -72,5 +72,4 @@ kramdown:
 
 gems:
 - sitemap.xml
-- jemoji
-- jekyll-paginate
+
