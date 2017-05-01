@@ -26,7 +26,15 @@ Enquanto os primeiros repositórios do Ubuntu 17.04 incluíram o Linux 4.9 em no
 	<img src="/images/imagens/Ubuntu.jpg">
 	<figcaption>Ubuntu 17.04</figcaption>
 </figure>
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- teclivre -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-1738697462902889"
+     data-ad-slot="4405393702"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 Além do kernel 4.10, o Ubuntu 17.04 ja vem pré-carregado com o LibreOffice 5.3. O lançamento também tem GNOME 3.24 beta (3.23.90) que traz um recurso Night Light para reduzir a emissão de luz azul a partir da tela em um determinado período de tempo.
 
 Você também pode notar algumas melhorias de desempenho e correções de bugs. No entanto, a versão beta inclui alguns problemas e não é recomendado para ser usado como a plataforma padrão, por se tratar de uma versão que ainda apresenta instabilidade.

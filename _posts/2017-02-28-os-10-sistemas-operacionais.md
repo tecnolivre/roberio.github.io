@@ -39,14 +39,30 @@ O Kali Linux é baseado na distribuição Debian-Linux, e é especialmente proje
 
 O Kali Linux suporta imagens de 32 bits e 64 bits para uso com máquinas x86, e até mesmo suporta várias placas de desenvolvimento como Raspberry Pi, BeagleBone, Odroid, CuBox, etc.
 
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- teclivre -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-1738697462902889"
+     data-ad-slot="4405393702"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
  ![Kali Linux](/images/imagens/Kali-Linux.jpg "Kali Linux") 
 
 
 #BacBox Linux
 BackBox é uma distribuição Linux baseada no Ubuntu destinada a auxiliar hackers éticos e testadores de penetração em avaliações de segurança. BackBox OS é projetado com o objetivo de ser mais rápido, fácil de operar e ter um ambiente de desktop mínimo. A principal vantagem do BackBox é que seus próprios repositórios de software são atualizados em intervalos regulares para manter a distribuição estável e popular para operações do mundo real.
 A distribuição BackBox consiste em mais de 70 ferramentas para tarefas que vão desde análise de Web e análise de rede a testes de estresse, sniffing, avaliação de vulnerabilidade, forense e exploração.
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- teclivre -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-1738697462902889"
+     data-ad-slot="4405393702"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
  ![BacBox Linux](/images/imagens/backbox.jpg "BacBox Linux")
 
 
@@ -64,7 +80,15 @@ O Parrot Security OS faz uso dos repositórios Kali para todos os tipos de atual
 DEFT (Digital Evidence and Forensics Toolkit) é baseado em GNU Linux e DART (Digital Advanced Response Toolkit), um sistema forense que inclui algumas das melhores ferramentas para forense e resposta a incidentes. DEFT Linux é especialmente projetado para executar tarefas forenses e executa em tempo real em sistemas sem alterar o disco rígido ou qualquer outra mídia de armazenamento. Consiste em mais de 100 altamente forense avaliado e ferramentas de corte.
 É desenvolvido e mantido atualmente por Stefano Fratepietro junto com outros colaboradores, e está disponível gratuitamente. Ele é usado ativamente por hackers testadores, oficiais do governo, auditores de TI e até mesmo as forças armadas para a realização de análise forense vários sistemas baseados.
 
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- teclivre -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-1738697462902889"
+     data-ad-slot="4405393702"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
  ![DEFT Linux](/images/imagens/Deft-Linux.jpg "DEFT Linux")
 
 

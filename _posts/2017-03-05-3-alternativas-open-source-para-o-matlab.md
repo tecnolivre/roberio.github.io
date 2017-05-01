@@ -40,7 +40,15 @@ O [GNU Octave] pode ser a alternativa mais conhecida ao MATLAB. Em desenvolvimen
 Octave tem muitas opções diferentes disponíveis para uma interação front-end fora do padrão que é fornecido com a versão mais recente; Alguns se assemelham a interface MATLAB mais do que outros. A página [Wikipedia] da Octave lista várias opções.
 
 Octave é licenciado sob a [GPL], e seu código fonte pode ser encontrado no site [GNU ftp].
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- teclivre -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-1738697462902889"
+     data-ad-slot="4405393702"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 
 ## Scilab

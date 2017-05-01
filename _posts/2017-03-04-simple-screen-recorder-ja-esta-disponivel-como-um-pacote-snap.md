@@ -32,7 +32,15 @@ O programa usado para captura de tela, GNU/Linux, Simpĺe Screen Recorder é um 
 	<figcaption>Simple Screen Recorder</figcaption>
 </figure>
 
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- teclivre -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-1738697462902889"
+     data-ad-slot="4405393702"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 Para instalar pelos [repositórios oficiais PPA], basta a dicionar da seguite maneira:
 
 {% highlight python %}
