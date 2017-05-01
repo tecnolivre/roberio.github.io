@@ -33,6 +33,16 @@ A multinacional norte-americana foi a anfitriã das discussões que ocorreram em
 
 O executivo da Eletrobras disse que o aumento da presença da tecnologia no país poderá levar a uma rede mais confiável. Isso porque com essa automatização é possível um maior controle dos momentos de parada para manutenção de equipamentos em geração, por exemplo. “Com essa automatização podemos fazer com que os equipamentos elétricos durem mais e os processos de manutenção sejam mais assertivos, pois a prioridade será pela manutenção preditiva que é muito mais barato que a corretiva, o que aumenta a vida útil do equipamento”, acrescentou.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- teclivre -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-1738697462902889"
+     data-ad-slot="4405393702"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Solange Almeida, CEO da Neoenergia, que tem ramificações em todas as frentes do setor elétrico, é taxativa ao afirmar que não tem dúvidas de que a tecnologia veio para ficar no setor elétrico. Em sua opinião, contudo, para que essa evolução seja mais presente é necessários que haja o estímulo ao investimento. “As distribuidoras são empresas de capital intensivo e precisamos viabilizar os aportes por meio do repasse e de tarifa. O medidor inteligente, por exemplo, é caro, precisamos evoluir para que o futuro seja economicamente viável para o país”, afirmou a executiva no evento.
 
 Os desafios, disse, são enormes e com essa onda digital é possível agregar mais valor ao setor elétrico. Ainda mais que é possível trazer para a tomada de decisão de uso da energia o consumidor. Hoje, contou já é possível a interação com o cliente por meio do celular, como o recebimento da conta ou acompanhamento do consumo, mas que em breve será possível acompanhar em tempo real essa demanda, tudo com base na conectividade via Internet das Coisas. E as possibilidades são grandes, já que não se usa atualmente nem 5% dos dados que o setor gera atualmente.
