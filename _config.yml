@@ -71,5 +71,6 @@ kramdown:
     coderay_css: class
 
 gems:
+- sitemap.xml
 - jemoji
 - jekyll-paginate
