@@ -33,6 +33,7 @@ Vários usuários relataram ter notado um atraso na conexão do OneDrive em suas
 Os usuários afirmaram que, embora a interface do Microsoft OneDrive funciona sem nenhum soluço, o serviço leva muito tempo no carregamento no Linux.
 
 Alguns usuários tentaram alterar a seqüência do agente do usuário no navegador que corrige temporariamente o problema. Mas retornar à configuração padrão diminui o serviço novamente. "Depois de alterar o user-agent, os problemas de desempenho foram resolvidos. A interface do OneDrive funcionou perfeitamente. A única coisa no usuário-agente mudou foi o sistema operacional.
+
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- teclivre -->
 <ins class="adsbygoogle"
@@ -42,6 +43,7 @@ Alguns usuários tentaram alterar a seqüência do agente do usuário no navegad
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
 <figure>
 	<img src="/images/imagens/2017-03-26-microsoft-onedrive-enfrenta-problemas-de-desempenho-no-linux.jpg">
 	<figcaption>ONE DRIVE ON LINUX</figcaption>
@@ -59,6 +61,7 @@ Um grande número de usuários Linux de várias distribuições relataram o prob
 
 
 Achou útil esta informação? Compartilhe!
+
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- teclivre -->
 <ins class="adsbygoogle"

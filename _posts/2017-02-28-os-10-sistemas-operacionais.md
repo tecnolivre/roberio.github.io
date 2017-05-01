@@ -48,12 +48,14 @@ O Kali Linux suporta imagens de 32 bits e 64 bits para uso com máquinas x86, e 
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
  ![Kali Linux](/images/imagens/Kali-Linux.jpg "Kali Linux") 
 
 
 #BacBox Linux
 BackBox é uma distribuição Linux baseada no Ubuntu destinada a auxiliar hackers éticos e testadores de penetração em avaliações de segurança. BackBox OS é projetado com o objetivo de ser mais rápido, fácil de operar e ter um ambiente de desktop mínimo. A principal vantagem do BackBox é que seus próprios repositórios de software são atualizados em intervalos regulares para manter a distribuição estável e popular para operações do mundo real.
 A distribuição BackBox consiste em mais de 70 ferramentas para tarefas que vão desde análise de Web e análise de rede a testes de estresse, sniffing, avaliação de vulnerabilidade, forense e exploração.
+
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- teclivre -->
 <ins class="adsbygoogle"

@@ -29,6 +29,7 @@ Precisa dar cinquenta cópias de algum pedaço de dados o mais barato possível?
 Qualquer que seja a razão, ainda há uma boa chance de que todos nós ainda estaremos usando mídia ótica para os próximos anos. Para aqueles que fizeram a mudança de software proprietário para software de fonte aberta nos últimos anos, você pode estar à procura de uma ferramenta que permite rasgar e gravar discos com facilidade.
 
 Embora a maioria dos sistemas operacionais modernos tenham instalações básicas construídas hoje em dia (Nautilus, também conhecido como Gnome Files, funciona bem se você estiver apenas olhando para arrastar e soltar alguns arquivos em um disco), há ocasiões em que a funcionalidade avançada de um programa como o Nero foi útil. Aqui estão alguns programas de código aberto para trabalhar com mídias ópticas que você deve verificar para aqueles em um sistema Linux.
+
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- teclivre -->
 <ins class="adsbygoogle"
@@ -39,6 +40,7 @@ Embora a maioria dos sistemas operacionais modernos tenham instalações básica
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 <figure>
+
 	<img src="/images/imagens/2017-03-26-Alternativas-para-o-nero-para-linux-gravacao-de-cd-e-dvd.png">
 	<figcaption>Image By: [Silver Spoon]</figcaption>
 </figure>

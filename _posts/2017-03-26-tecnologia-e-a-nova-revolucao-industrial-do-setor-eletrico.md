@@ -32,6 +32,7 @@ Na avaliação do CEO da GE no Brasil, Gilberto Peralta, essa era da digitaliza�
 A multinacional norte-americana foi a anfitriã das discussões que ocorreram em seu Centro de Pesquisas no Rio de Janeiro. Nessa ocasião, o presidente da Eletrobras, Wilson Ferreira Júnior, concordou que a tecnologia traz muitos benefícios. Inclusive, um deles versa sobre o melhor uso dos recursos disponíveis. “Teremos no futuro mais eficiência e a tecnologia vai ajudar o país sim, com certeza conseguiremos fazer mais com menos”, definiu. “Para isso, precisamos dos sinais corretos. Não há dúvidas sobre os benefícios, mas também precisamos da regulação, para que os consumidores possam tomar as melhores decisões”, apontou ele.
 
 O executivo da Eletrobras disse que o aumento da presença da tecnologia no país poderá levar a uma rede mais confiável. Isso porque com essa automatização é possível um maior controle dos momentos de parada para manutenção de equipamentos em geração, por exemplo. “Com essa automatização podemos fazer com que os equipamentos elétricos durem mais e os processos de manutenção sejam mais assertivos, pois a prioridade será pela manutenção preditiva que é muito mais barato que a corretiva, o que aumenta a vida útil do equipamento”, acrescentou.
+
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- teclivre -->
 <ins class="adsbygoogle"
