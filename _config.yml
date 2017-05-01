@@ -7,7 +7,7 @@ dropcap:	   true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-url:        	 http://teclivre.com
+url:        	 http://www.teclivre.com
 
 # Owner/author information
 owner:
@@ -27,6 +27,9 @@ owner:
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   UA-92767687-1
+google_verify:      
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:         
 
 # Links to include in footer navigation
 # For external links add external: true
@@ -67,3 +70,6 @@ kramdown:
     coderay_bold_every: 10
     coderay_css: class
 
+gems:
+- jemoji
+- jekyll-paginate
