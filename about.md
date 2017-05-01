@@ -14,6 +14,16 @@ image:
   feature: soft-trees.jpg
 ---
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- TECLIVRE_2 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:970px;height:250px"
+     data-ad-client="ca-pub-1738697462902889"
+     data-ad-slot="5508206901"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 [Teclivre] é um Canal voltado a quem se interessa por tecnologia, nosso foco maior é a utilização de  software open source e engenharia, mas não exclusivo a esse seguimento. Feito por quem gosta de estudar tecnologia. 
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -34,7 +44,15 @@ image:
 * Alternativa ao MATLAB [GNU Octave]
  
 
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- TECLIVRE_2 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:970px;height:250px"
+     data-ad-client="ca-pub-1738697462902889"
+     data-ad-slot="5508206901"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 
 
