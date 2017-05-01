@@ -27,9 +27,6 @@ owner:
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   UA-92767687-1
-google_verify:      sitemap.xml
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
 
 # Links to include in footer navigation
 # For external links add external: true
@@ -69,7 +66,4 @@ kramdown:
     coderay_tab_width: 4
     coderay_bold_every: 10
     coderay_css: class
-
-gems:
-- sitemap.xml
 
