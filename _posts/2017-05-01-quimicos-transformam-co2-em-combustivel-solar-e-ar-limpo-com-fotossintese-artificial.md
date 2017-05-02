@@ -48,9 +48,24 @@ Ele optou por titânio composto com moléculas orgânicas que atuam como antenas
 
 "A adaptação de materiais que absorvem uma cor específica de luz é muito difícil do ponto de vista científico, mas do ponto de vista da sociedade estamos contribuindo para o desenvolvimento de uma tecnologia que pode ajudar a reduzir os gases de efeito estufa".
 
+O objetivo final seria melhorar a tecnologia. Os proprietários poderiam um dia ter telhas feitas fora do material. Essas telhas poderiam produzir ar limpo para a vizinhança e produzir a energia necessária para alimentar casas. Poderia até funcionar em um ambiente mais corporativo.
+
+"A idéia seria montar estações que capturam grandes quantidades de CO2, como ao lado de uma usina", disse Uribe-Romo. "O gás seria sugado para a estação, passando pelo processo e reciclando os gases de efeito estufa enquanto produzindo energia que seria colocada de volta na usina".
+A concentração global de CO2 atmosférico é a mais alta da história.
+
+Em 2013, a concentração global de CO2 atmosférico atingiu 400 partes por milhão pela primeira vez, segundo dados da NASA do Observatório Mauna Loa. Mesmo desde que os pesquisadores começaram a registrar o dióxido de carbono atmosférico, a quantidade aumentou em quase 25%.
+
+Apesar do declínio mínimo e da estagnação dos valores de CO2, a ameaça representada pelos altos níveis de dióxido de carbono continua a preocupar os cientistas.
+
+"Passar a marca de 400 me lembra que estamos em uma marcha inexorável para 450 ppm e níveis muito mais altos", disse Michael Gunson, da NASA em 2013. Gunson serve como gerente do Programa de Mudança Global e Energia da NASA. "Estes eram os alvos para a" estabilização "sugerida não há muito tempo. O mundo está acelerando a taxa de acumulação de CO2, e não mostrou sinais de abrandar isso. Deve ser um tripwire psicológico para todos. "
+
+À medida que o CO2 aumenta, os efeitos da fotossíntese diminuem, apesar das plantas ainda operarem na mesma proporção. Em suma, mais plantas significam mais fotossíntese. Mais fotossíntese significa menos CO2 atmosférico e mais oxigênio como resultado. Esperemos que a fotossíntese sintética de Uribe-Romo possa auxiliar nestes processos naturais vitais.
+
+Para assistir ao professor Uribe-Romo falar mais sobre o projeto, confira o vídeo abaixo:
+
 FONTE: [INTERESTING ENGINEERING]
 
-Veja o Vídeo:
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cdTuwe2SruA" frameborder="0" allowfullscreen></iframe>
 
