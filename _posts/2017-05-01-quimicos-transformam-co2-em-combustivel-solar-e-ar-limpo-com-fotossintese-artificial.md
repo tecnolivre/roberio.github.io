@@ -23,7 +23,7 @@ introduction:
 	<figcaption>Ciência</figcaption>
 </figure>
 
-Um químico da Flórida só descobriu uma forma de desencadear a fotossíntese, a forma natural como as plantas convertem dióxido de carbono em combustível - em um material sintético. Este novo processo poderia simultaneamente limpar o ar e produzir energia.
+Um químico da Flórida só descobriu uma forma de desencadear a fotossíntese, a forma natural como as plantas convertem dióxido de carbono em combustível em um material sintético. Este novo processo poderia simultaneamente limpar o ar e produzir energia.
 
 
 O professor da Universidade da Flórida, Fernando Uribe-Romo, desenvolveu o avanço. Durante anos, os cientistas têm procurado uma maneira de fazer a luz visível desencadear a fotossíntese. Enquanto os raios UV são a melhor opção, eles só formam cerca de 4 por cento da luz que a Terra recebe do sol. A faixa de luz visível compõe a maior parte dos raios solares. No entanto, os materiais que podem efetivamente pegar essas ondas para o processo são caros. Enquanto a platina, o renio e o irídio são ótimas opções, Uribe-Romo observou que eles são muito caros.
@@ -43,7 +43,7 @@ O professor da Universidade da Flórida, Fernando Uribe-Romo, desenvolveu o avan
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Ele optou por titânio composto com moléculas orgânicas que atuam como antenas para a luz. Essas moléculas de "colheita leve" podem ser adaptadas para absorver comprimentos específicos e cores de luz. Ele e sua equipe ajustaram o processo à cor azul. Eles construíram um fotorreator LED azul - visto abaixo - para acionar a reação. O ar ficou mais limpo e o CO2 resultou em formatos e formamidas - tipos de combustíveis solares.
+Ele optou por titânio composto com moléculas orgânicas que atuam como antenas para a luz. Essas moléculas de "colheita leve" podem ser adaptadas para absorver comprimentos específicos e cores de luz. Ele e sua equipe ajustaram o processo à cor azul. Eles construíram um fotorreator LED azul visto abaixo  para acionar a reação. O ar ficou mais limpo e o CO2 resultou em formatos e formamidas tipos de combustíveis solares.
 
 
 "A adaptação de materiais que absorvem uma cor específica de luz é muito difícil do ponto de vista científico, mas do ponto de vista da sociedade estamos contribuindo para o desenvolvimento de uma tecnologia que pode ajudar a reduzir os gases de efeito estufa".
