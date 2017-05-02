@@ -57,7 +57,7 @@ Em 2013, a concentração global de CO2 atmosférico atingiu 400 partes por milh
 
 Apesar do declínio mínimo e da estagnação dos valores de CO2, a ameaça representada pelos altos níveis de dióxido de carbono continua a preocupar os cientistas.
 
-"Passar a marca de 400 me lembra que estamos em uma marcha inexorável para 450 ppm e níveis muito mais altos", disse Michael Gunson, da NASA em 2013. Gunson serve como gerente do Programa de Mudança Global e Energia da NASA. "Estes eram os alvos para a" estabilização "sugerida não há muito tempo. O mundo está acelerando a taxa de acumulação de CO2, e não mostrou sinais de abrandar isso. Deve ser um tripwire psicológico para todos. "
+"Passar a marca de 400 me lembra que estamos em uma marcha inexorável para 450 ppm e níveis muito mais altos", disse Michael Gunson, da NASA em 2013. Gunson serve como gerente do Programa de Mudança Global e Energia da NASA. "Estes eram os alvos para a" estabilização "sugerida não há muito tempo. O mundo está acelerando a taxa de acumulação de CO2, e não mostrou sinais de diminuição. "
 
 À medida que o CO2 aumenta, os efeitos da fotossíntese diminuem, apesar das plantas ainda operarem na mesma proporção. Em suma, mais plantas significam mais fotossíntese. Mais fotossíntese significa menos CO2 atmosférico e mais oxigênio como resultado. Esperemos que a fotossíntese sintética de Uribe-Romo possa auxiliar nestes processos naturais vitais.
 
