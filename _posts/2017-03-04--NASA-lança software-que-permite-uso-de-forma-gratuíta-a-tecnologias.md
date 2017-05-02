@@ -55,7 +55,7 @@ Alguns dos softwares disponíveis incluem códigos para drones mais avançados e
 
 O catálogo de software é um produto do programa de Transferência de Tecnologia da NASA, gerenciado pela agência pela STMD. O programa assegura que as tecnologias desenvolvidas para missões de exploração e descoberta estejam amplamente disponíveis ao público, maximizando o benefício para a nação.
 
-Fonte: [NASA]
+Fonte:[NASA]
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- teclivre -->
