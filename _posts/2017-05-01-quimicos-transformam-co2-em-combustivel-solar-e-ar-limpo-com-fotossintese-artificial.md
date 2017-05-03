@@ -2,10 +2,9 @@
 layout: post
 title: "Químicos transformam CO2 em combustível solar e ar limpo com fotossíntese artificial"
 date: 2017-05-01 20:50:23
-image: /images/imagens/ciencia/ciencia.jpg
+image: '/assets/img/'
 description: Químicos transformam CO2 em combustível solar e ar limpo com fotossíntese artificial
 main-class: Ciência
-thumb:
 color:
 tags:
 - Ciência
@@ -24,7 +23,7 @@ introduction:
 	<figcaption>Ciência</figcaption>
 </figure>
 
-Um químico da Flórida só descobriu uma forma de desencadear a fotossíntese, a forma natural como as plantas convertem dióxido de carbono em combustível em um material sintético. Este novo processo poderia simultaneamente limpar o ar e produzir energia. <!--more-->
+Um químico da Flórida só descobriu uma forma de desencadear a fotossíntese, a forma natural como as plantas convertem dióxido de carbono em combustível em um material sintético. Este novo processo poderia simultaneamente limpar o ar e produzir energia.
 
 
 O professor da Universidade da Flórida, Fernando Uribe-Romo, desenvolveu o avanço. Durante anos, os cientistas têm procurado uma maneira de fazer a luz visível desencadear a fotossíntese. Enquanto os raios UV são a melhor opção, eles só formam cerca de 4 por cento da luz que a Terra recebe do sol. A faixa de luz visível compõe a maior parte dos raios solares. No entanto, os materiais que podem efetivamente pegar essas ondas para o processo são caros. Enquanto a platina, o renio e o irídio são ótimas opções, Uribe-Romo observou que eles são muito caros.

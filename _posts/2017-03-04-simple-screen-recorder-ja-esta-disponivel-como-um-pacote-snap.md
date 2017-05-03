@@ -25,7 +25,7 @@ introduction:
 	<figcaption>Simple Screen Recorder</figcaption>
 </figure>
 
-O programa usado para captura de tela, GNU/Linux, Simpĺe Screen Recorder é um dos mais populares, agora está disponível sua instalação com pacote SNAP. Anteriormente sua instalação estava disponível apenas por repositórios PPA. <!--more-->
+O programa usado para captura de tela, GNU/Linux, Simpĺe Screen Recorder é um dos mais populares, agora está disponível sua instalação com pacote SNAP. Anteriormente sua instalação estava disponível apenas por repositórios PPA.
 
 <figure>
 	<img src="/images/imagens/simple.png">

@@ -20,7 +20,7 @@ introduction:
 
 Eu não tive um computador de trabalho com uma unidade de mídia ótica em quase um ano agora, ea verdade é, eu não perdi. Tecnicamente eu tenho um dispositivo USB externo CD / DVD, mas eu nem mesmo puxado para fora de sua caixa.
 
-Então, por que eu tenho pensado tanto sobre a leitura e escrita desses pequenos discos redondos ultimamente? <!--more-->
+Então, por que eu tenho pensado tanto sobre a leitura e escrita desses pequenos discos redondos ultimamente?
 
 Só porque eu parei de usar DVDs e CDs (e nunca entrei em Blu-ray) não significa que eles tenham desaparecido. Pessoalmente, eu ainda tenho anos de backup, cópias originais de jogos e música e filmes, que eu realmente deveria fazer backups de antes que eles se deterioram. Mas há milhões de pessoas ainda encontrando usos para discos físicos todos os dias.
 

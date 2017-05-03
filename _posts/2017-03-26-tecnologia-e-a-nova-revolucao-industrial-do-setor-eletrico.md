@@ -25,7 +25,7 @@ introduction:
 </figure>
 
 
-A evolução da tecnologia, que alcançou setores como o industrial e a aviação, está desembarcando agora no setor elétrico. A importância desse item para as empresas é tão relevante que pode ser classificado como uma nova revolução, equivalente à descoberta da agricultura ou à revolução industrial. Essa mudança é disruptiva para o modelo e ajudará a produzir energia de forma mais eficiente e pode auxiliar na obtenção de uma matriz energética mais limpa e confiável. <!--more-->
+A evolução da tecnologia, que alcançou setores como o industrial e a aviação, está desembarcando agora no setor elétrico. A importância desse item para as empresas é tão relevante que pode ser classificado como uma nova revolução, equivalente à descoberta da agricultura ou à revolução industrial. Essa mudança é disruptiva para o modelo e ajudará a produzir energia de forma mais eficiente e pode auxiliar na obtenção de uma matriz energética mais limpa e confiável.
 
 Na avaliação do CEO da GE no Brasil, Gilberto Peralta, essa era da digitalização dos processos no setor elétrico é irreversível e tende a ganhar mais importância com o tempo. “Essa é uma revolução tão importante quanto a industrial, nós estamos nesse mercado há 120 anos fabricando equipamentos para diversos segmentos e seremos líderes também na plataforma digital onde fizemos investimentos nesse que será o futuro”, disse ele em evento transmitido via YouTube para discutir a energia na era digital.
 
