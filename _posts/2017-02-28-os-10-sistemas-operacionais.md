@@ -22,7 +22,7 @@ introduction:
 ![Os dez sistemas](/images/imagens/hacker.jpg "Hacker")
 
 
-No mundo cibernético de hoje, muitos ataques variados ocorrem a cada hora e são alcançados por hackers profissionais, escritores de vírus e crackers. A ferramenta mais básica requerida por cada hacker é um sistema operacional de hacking. Normalmente, os sistemas operacionais especializados em hacking são baseados no kernel do Linux. Estes sistemas operacionais são considerados sistemas avançados de trabalho, que incluem muitas ferramentas de hacking de teste de invasão.
+No mundo cibernético de hoje, muitos ataques variados ocorrem a cada hora e são alcançados por hackers profissionais, escritores de vírus e crackers. A ferramenta mais básica requerida por cada hacker é um sistema operacional de hacking. Normalmente, os sistemas operacionais especializados em hacking são baseados no kernel do Linux. Estes sistemas operacionais são considerados sistemas avançados de trabalho, que incluem muitas ferramentas de hacking de teste de invasão. <!--more-->
 
 Neste artigo, temos os dez melhores sistemas operacionais usados ​​por hackers testadores de invasão são apresentados. Todos eles são gratuitos, de código aberto, baseiam-se no kernel do Linux e existem com muitas ferramentas de hacking.
 

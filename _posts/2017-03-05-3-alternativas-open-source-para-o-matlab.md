@@ -25,7 +25,7 @@ introduction:
 	<figcaption>Alternativas open source para o MATLAB</figcaption>
 </figure>
 
-Para muitos estudantes de matemática, ciências físicas, engenharia, economia e outros campos com um componente numérico pesado, MATLAB é a sua primeira introdução à programação ou computação científica em geral.
+Para muitos estudantes de matemática, ciências físicas, engenharia, economia e outros campos com um componente numérico pesado, MATLAB é a sua primeira introdução à programação ou computação científica em geral. <!--more-->
 
 Pode ser uma boa ferramenta para aprender, embora na minha experiência muitas das coisas que os alunos e pesquisadores tanto usam MATLAB para não são particularmente exigentes cálculos que facilmente poderia ser realizado com qualquer número de ferramentas básicas de script, com ou sem estatística ou matemática. No entanto, ele tem uma quase ubiquidade em muitas configurações acadêmicas, trazendo com ele uma grande comunidade de usuários familiarizados com o idioma, plugins e capacidades em geral.
 

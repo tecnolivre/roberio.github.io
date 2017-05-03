@@ -26,6 +26,7 @@ Enquanto os primeiros repositórios do Ubuntu 17.04 incluíram o Linux 4.9 em no
 	<img src="/images/imagens/Ubuntu.jpg">
 	<figcaption>Ubuntu 17.04</figcaption>
 </figure>
+<!--more-->
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- teclivre -->
 <ins class="adsbygoogle"
